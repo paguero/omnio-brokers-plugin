@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "omnio-brokers": {
+      "type": "http",
+      "url": "https://api.omnio-brokers.com/mcp"
+    }
+  }
+}
