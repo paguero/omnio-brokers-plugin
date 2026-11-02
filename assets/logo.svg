@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><rect width="1024" height="1024" rx="224" fill="#B91C1C"/>
+<defs>
+ <radialGradient id="bb" cx="32%" cy="25%" r="80%"><stop offset="0" stop-color="#ffffff"/><stop offset=".57" stop-color="#fbe4e4"/><stop offset=".95" stop-color="#e9a3a3"/></radialGradient>
+ <radialGradient id="hb" cx="35%" cy="20%" r="60%"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+ <filter id="fb"><feGaussianBlur stdDeviation="36.0"/></filter>
+ <filter id="shb" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="60.0" stdDeviation="60.0" flood-color="#000" flood-opacity=".25"/></filter>
+</defs>
+<circle cx="512" cy="530" r="360" fill="url(#bb)" filter="url(#shb)"/>
+<ellipse cx="411.2" cy="378.8" rx="162.0" ry="129.6" fill="url(#hb)" opacity=".7" filter="url(#fb)"/>
+<ellipse cx="450.8" cy="537.2" rx="27.0" ry="43.199999999999996" fill="#28223a"/>
+<ellipse cx="573.2" cy="537.2" rx="27.0" ry="43.199999999999996" fill="#28223a"/>
+<path d="M 468.8 602.0 Q 512 652.4 555.2 602.0" stroke="#28223a" stroke-width="19.8" fill="none" stroke-linecap="round"/>
+</svg>
